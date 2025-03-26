@@ -18,4 +18,3 @@ This app was **my own project**, developed as a **final assignment for my study 
 - **Integrated maps** for location tracking and navigation  
 
 ---
-Made with ❤️ by [Your Name] 🚜
